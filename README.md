@@ -9,13 +9,13 @@ A curated list of awesome resources for PureData enthusiasts. Discover useful pa
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [YouTube Channels](#youtubechannels)
+2. [YouTube Channels](#youtube-channels)
 3. [Repos](#repos)
-4. [PureData and Hardware](url)
-5. [GEM-Ofelia](url)
-6. [Blogs & Websites](#blogs)
-7. [Books](url)
-8. [PureData For Games](#pdforgames)
+4. [PureData and Hardware](#puredata-and-hardware)
+5. [GEM-Ofelia](#gem-ofelia)
+6. [Blogs & Websites](#blogs-and-websites)
+7. [Books](#books)
+8. [PureData For Games](#puredata-for-games)
 9. [Community](#community)
 10. [Contributing](#contributing)
 11. [License](#license)
@@ -61,6 +61,22 @@ Learn from the community with these helpful PureData tutorials:
 - ...
 
 ## Blogs & Websites
+
+Learn from the community with these helpful PureData tutorials:
+
+- [PureDataTutorial1](Link to PureDataTutorial1)
+- [PureDataTutorial2](Link to PureDataTutorial2)
+- ...
+
+## Books
+
+Learn from the community with these helpful PureData tutorials:
+
+- [PureDataTutorial1](Link to PureDataTutorial1)
+- [PureDataTutorial2](Link to PureDataTutorial2)
+- ...
+
+## PureData For Games
 
 Learn from the community with these helpful PureData tutorials:
 
