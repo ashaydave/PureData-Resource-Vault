@@ -70,6 +70,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [The Theory and Technique of Electronic Music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf) - Made by the creator of PureData and Max himself.
 - [Loadbang - Programming Electronic Music in Pd by Johannes Kreidler](https://www.wolke-verlag.de/musikbuecher/johannes-kreidler-loadbang/)
 - [FLOSS Manual](https://archive.flossmanuals.net/pure-data/) - Feels like '05.
+- [Programming Sound with Pure Data by Tony Hillerson](https://www.amazon.com/Programming-Sound-Pure-Data-Dynamic/dp/1937785661) - A good beginner's book for Pd.
 
 ## PureData For Games
 
