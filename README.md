@@ -1,7 +1,7 @@
 # PureData-Resource-Vault
 A collection of resources, libraries, blogs, websites, and communities for PureData that I've found and used as I learn the software.
 
-[![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ashaydave/PureData-Resource-Valut)](https://github.com/ashaydave/PureData-Resource-Vault/blob/master/LICENSE)
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
