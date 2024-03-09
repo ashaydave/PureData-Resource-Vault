@@ -75,10 +75,11 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 ## PureData For Games
 
 - [LibPd](https://github.com/LibPdIntegration/LibPdIntegration) - For integrating PureData into the Unity game engine. Only works for Windows.
+- [Niall Moody](https://www.youtube.com/playlist?list=PL9mtAkCrEZavP0T_C4mLqKdxYD-4wURoZ)
 - [Yann Seznec's Intro to Pd in Unity](https://www.youtube.com/playlist?list=PLXGA7pVjV1jdfe2FaEs2EzuZ-16HLH1_0)
 - [uPD](https://github.com/Magicolo/uPD) - A better LibPd?
 - [Pd for Android](https://github.com/libpd/pd-for-android)
-- [Kalimba](https://github.com/hagish/kalimba) - Puredata (libpd) for Unity's Android and iOS build environments.
+- [Kalimba](https://github.com/hagish/kalimba) - Puredata (libpd) for Unity's Android and iOS build environments. [Integrate Unity with Kalimba](https://youtu.be/QK9-2q5CIjg)
 - [Unity + OSC + PureData Project](https://puredata.info/Members/videogameaudio/unitypuredata)
 - [Connect Pd with Wwise](https://www.youtube.com/watch?v=5T37U9hy4HA&ab_channel=GuidoFazzito)
 - [Leonard Paul's Procedural Audio Engine in PureData](https://www.youtube.com/watch?v=0xr4aL1C24E&list=PLwYSebjAx9JHLAKHZhbD2njhYtkf5DsKA&ab_channel=SchoolofVideoGameAudio) - School of Video Game Audio is really big on Pd, and you can find more on their website here -> [SoVGA](https://school.videogameaudio.com/apply/).
