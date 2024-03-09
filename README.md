@@ -50,7 +50,6 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [PureData Examples with Bela](https://embelashed.org/code/examples-index.html)
 - [Live Electronics Tutorial](https://github.com/porres/Live-Electronics-Tutorial)
 - [Raspberry Pi and Pure Data thread](https://www.elektronauts.com/t/raspberry-pi-and-pure-data/18577) - Interesting discussion on an Elektronauts thread.
-- 
 
 ## GEM-Ofelia
 
@@ -67,7 +66,6 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [The Theory and Technique of Electronic Music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf) - Made by the creator of PureData and Max himself.
 - [Loadbang - Programming Electronic Music in Pd by Johannes Kreidler](https://www.wolke-verlag.de/musikbuecher/johannes-kreidler-loadbang/)
 - [FLOSS Manual](https://archive.flossmanuals.net/pure-data/) - Feels like '05.
-- 
 
 ## PureData For Games
 
