@@ -1,11 +1,7 @@
 # PureData-Resource-Vault
 A collection of resources, libraries, blogs, websites, and communities for PureData that I've found and used as I learn the software.
 
-# PureData Awesome Resources
-
 [![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/master/LICENSE)
-
-A curated list of awesome resources for PureData enthusiasts. Discover useful patches, scripts, and insights to enhance your PureData experience.
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
