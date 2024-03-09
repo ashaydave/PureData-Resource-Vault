@@ -91,5 +91,5 @@ This is the first time I'm making a list of resources, following the structure f
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons](LICENSE).
 
