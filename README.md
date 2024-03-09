@@ -23,11 +23,9 @@ A curated list of awesome resources for PureData enthusiasts. Discover useful pa
 
 ## Getting Started
 
-Installing PureData:
-
 - [PureData Official Website](https://puredata.info/) - You'll find almost everything you need to know on the official site.
 - [PureData Reference Card](https://puredata.info/docs/tutorials/pd-refcard) - Handy reference card for when you're patching!
-- [PureData extended](https://puredata.info/downloads/pd-extended) - If for whatever reason you need to use the outdated and out-of-support Extended version.
+- [FAQ](https://puredata.info/docs/faq)
 
 ## YouTube Channels
 
