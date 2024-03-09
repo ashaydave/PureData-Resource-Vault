@@ -25,8 +25,6 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 
 ## YouTube Channels
 
-Explore a collection of innovative PureData patches:
-
 - [Sound Simulator](https://www.youtube.com/playlist?list=PLyFkFo29zHvD4eRftIAjcLqIXCtSo7w8g)
 - [Simon Hutchinson](https://www.youtube.com/playlist?list=PL7w4cOVVxL6FB_mmJ77C6fdV8G6L4zDut)
 - [QGC Interactive](https://www.youtube.com/playlist?list=PLuxj2jXSuTvvqYcDLJ-poN-JxvqX0wq-m)
@@ -35,22 +33,16 @@ Explore a collection of innovative PureData patches:
 
 ## Repos
 
-Discover useful PureData scripts to streamline your workflow:
-
 - [PureData repo](https://github.com/pure-data/pure-data)
 - [Camomile's Pd Audio Plugin](https://github.com/pierreguillot/Camomile) - Combines LibPd with [JUCE](https://github.com/juce-framework/JUCE) to let you make plug-ins based on Pd patches
 - [Pd Next](https://github.com/sebshader/pdnext) - Color-themed Pure data with different inlets & outlets for messages and signals
 
 ## Libraries
 
-Discover useful PureData scripts to streamline your workflow:
-
 - [Automatonism](https://www.automatonism.com/the-software/) - Automatonism is a modular synthesizer that runs in the open-source programming language Pure Data. It features a large library of 81 modules.
 - 
 
 ## PureData and Hardware
-
-Learn from the community with these helpful PureData tutorials:
 
 - [PureData Bela Tutorials](https://github.com/theleadingzero/pure-data-bela-tutorials) - [Bela](https://learn.bela.io/) is an open-source embedded computing platform for creating responsive, real-time interactive systems with audio and sensors.
 - [PureData Examples with Bela](https://embelashed.org/code/examples-index.html)
@@ -60,22 +52,16 @@ Learn from the community with these helpful PureData tutorials:
 
 ## GEM-Ofelia
 
-Learn from the community with these helpful PureData tutorials:
-
 - [PureDataTutorial1](Link to PureDataTutorial1)
 - [PureDataTutorial2](Link to PureDataTutorial2)
 - ...
 
 ## Blogs & Websites
 
-Learn from the community with these helpful PureData tutorials:
-
 - [Katjaas PureData](https://www.katjaas.nl/puredata/puredata.html)
 - [PureData and VR](https://antpb.com/pure-data-unity3d/)
 
 ## Books
-
-Learn from the community with these helpful PureData tutorials:
 
 - [Andy Farnell's Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/) - One of the most popular books in sound design and audio programming for visual media. The book has everything you need to know about audio signal processing, the physics of sound, the approach behind sonic decisions, procedural audio, and yes, PureData.
 - [The Theory and Technique of Electronic Music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf) - Made by the creator of PureData and Max himself.
@@ -84,8 +70,6 @@ Learn from the community with these helpful PureData tutorials:
 - 
 
 ## PureData For Games
-
-Learn from the community with these helpful PureData tutorials:
 
 - [LibPd](https://github.com/LibPdIntegration/LibPdIntegration) - For integrating PureData into the Unity game engine. Only works for Windows.
 - [uPD](https://github.com/Magicolo/uPD) - A better LibPd?
@@ -96,8 +80,6 @@ Learn from the community with these helpful PureData tutorials:
 - [Leonard Paul's Procedural Audio Engine in PureData](https://www.youtube.com/watch?v=0xr4aL1C24E&list=PLwYSebjAx9JHLAKHZhbD2njhYtkf5DsKA&ab_channel=SchoolofVideoGameAudio) - School of Video Game Audio is really big on Pd, and you can find more on their website here -> [SoVGA](https://school.videogameaudio.com/apply/).
 
 ## Community
-
-Connect with fellow PureData enthusiasts:
 
 - [PureData Forum](https://forum.pdpatchrepo.info)
 - [PureData Reddit](https://www.reddit.com/r/puredata/)
