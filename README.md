@@ -37,6 +37,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [Camomile's Pd Audio Plugin](https://github.com/pierreguillot/Camomile) - Combines LibPd with [JUCE](https://github.com/juce-framework/JUCE) to let you make plug-ins based on Pd patches.
 - [PlugData](https://github.com/plugdata-team/plugdata) - PureData as a plugin.
 - [Pd Next](https://github.com/sebshader/pdnext) - Color-themed Pure data with different inlets & outlets for messages and signals.
+- [Awesome PureData](https://github.com/virtualtam/awesome-puredata) - Found another resource repo like this but isn't updated in a while.
 
 ## Libraries
 
@@ -59,6 +60,8 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 
 - [Katjaas PureData](https://www.katjaas.nl/puredata/puredata.html)
 - [PureData and VR](https://antpb.com/pure-data-unity3d/)
+- [Designing Sound - A Compressor in PureData](https://designingsound.org/2013/06/28/tutorial-a-compressor-in-pure-data/)
+- [Wavetable Synth in PureData](https://designingsound.org/tag/wavetable-synth-project/)
 
 ## Books
 
