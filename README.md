@@ -26,8 +26,9 @@ Installing PureData:
 
 - [PureData Official Website](https://puredata.info/)
 - [PureData Reference Card](https://puredata.info/docs/tutorials/pd-refcard)
+- [PureData extended](https://puredata.info/downloads/pd-extended)
 
-## Patches
+## YouTube Channels
 
 Explore a collection of innovative PureData patches:
 
@@ -35,7 +36,7 @@ Explore a collection of innovative PureData patches:
 - [PureDataPatch2](Link to PureDataPatch2)
 - ...
 
-## Scripts
+## Repos
 
 Discover useful PureData scripts to streamline your workflow:
 
@@ -43,7 +44,23 @@ Discover useful PureData scripts to streamline your workflow:
 - [PureDataScript2](Link to PureDataScript2)
 - ...
 
-## Tutorials
+## PureData and Hardware
+
+Learn from the community with these helpful PureData tutorials:
+
+- [PureDataTutorial1](Link to PureDataTutorial1)
+- [PureDataTutorial2](Link to PureDataTutorial2)
+- ...
+
+## GEM - Ofelia
+
+Learn from the community with these helpful PureData tutorials:
+
+- [PureDataTutorial1](Link to PureDataTutorial1)
+- [PureDataTutorial2](Link to PureDataTutorial2)
+- ...
+
+## Blogs & Websites
 
 Learn from the community with these helpful PureData tutorials:
 
