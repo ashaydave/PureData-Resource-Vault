@@ -34,13 +34,15 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 ## Repos
 
 - [PureData repo](https://github.com/pure-data/pure-data)
-- [Camomile's Pd Audio Plugin](https://github.com/pierreguillot/Camomile) - Combines LibPd with [JUCE](https://github.com/juce-framework/JUCE) to let you make plug-ins based on Pd patches
-- [Pd Next](https://github.com/sebshader/pdnext) - Color-themed Pure data with different inlets & outlets for messages and signals
+- [Camomile's Pd Audio Plugin](https://github.com/pierreguillot/Camomile) - Combines LibPd with [JUCE](https://github.com/juce-framework/JUCE) to let you make plug-ins based on Pd patches.
+- [PlugData](https://github.com/plugdata-team/plugdata) - PureData as a plugin.
+- [Pd Next](https://github.com/sebshader/pdnext) - Color-themed Pure data with different inlets & outlets for messages and signals.
 
 ## Libraries
 
 - [Automatonism](https://www.automatonism.com/the-software/) - Automatonism is a modular synthesizer that runs in the open-source programming language Pure Data. It features a large library of 81 modules.
-- 
+- [Cyclone](https://github.com/porres/pd-cyclone) - MaxMSP objects in PureData.
+- [else](https://github.com/porres/pd-else) - ELSE makes PureData run on steroids.
 
 ## PureData and Hardware
 
@@ -52,9 +54,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 
 ## GEM-Ofelia
 
-- [PureDataTutorial1](Link to PureDataTutorial1)
-- [PureDataTutorial2](Link to PureDataTutorial2)
-- ...
+- [Gem repo](https://github.com/umlaeute/Gem)
 
 ## Blogs & Websites
 
@@ -72,6 +72,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 ## PureData For Games
 
 - [LibPd](https://github.com/LibPdIntegration/LibPdIntegration) - For integrating PureData into the Unity game engine. Only works for Windows.
+- [Yann Seznec's Intro to Pd in Unity](https://www.youtube.com/playlist?list=PLXGA7pVjV1jdfe2FaEs2EzuZ-16HLH1_0)
 - [uPD](https://github.com/Magicolo/uPD) - A better LibPd?
 - [Pd for Android](https://github.com/libpd/pd-for-android)
 - [Kalimba](https://github.com/hagish/kalimba) - Puredata (libpd) for Unity's Android and iOS build environments.
