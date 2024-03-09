@@ -22,6 +22,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [PureData Official Website](https://puredata.info/) - You'll find almost everything you need to know on the official site.
 - [PureData Reference Card](https://puredata.info/docs/tutorials/pd-refcard) - Handy reference card for when you're patching!
 - [FAQ](https://puredata.info/docs/faq)
+- [Intro To PureData by Daniel Simu](https://youtu.be/mSpcOidA3iI)
 
 ## YouTube Channels
 
