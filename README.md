@@ -94,7 +94,7 @@ Connect with fellow PureData enthusiasts:
 
 ## Contributing
 
-This is the first time I'm making a list of resources, following the structure from the [Awesome Project](https://github.com/sindresorhus/awesome/). Follow our [contribution guidelines](CONTRIBUTING.md).
+This is the first time I'm making a list of resources, following the structure from the [Awesome Project](https://github.com/sindresorhus/awesome/). If you have any resources you'd like me to add, let me know!
 
 ## License
 
