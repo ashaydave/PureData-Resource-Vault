@@ -12,7 +12,7 @@ A curated list of awesome resources for PureData enthusiasts. Discover useful pa
 2. [YouTube Channels](#youtube-channels)
 3. [Repos](#repos)
 4. [PureData and Hardware](#puredata-and-hardware)
-5. [GEM-Ofelia](#gem--ofelia)
+5. [GEM-Ofelia](#gem-ofelia)
 6. [Blogs & Websites](#blogs-and-websites)
 7. [Books](#books)
 8. [PureData For Games](#puredata-for-games)
