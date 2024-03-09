@@ -9,16 +9,19 @@ A curated list of awesome resources for PureData enthusiasts. Discover useful pa
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [Patches](#patches)
-3. [Scripts](#scripts)
-4. [Tutorials](#tutorials)
-5. [Community](#community)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [YouTube Channels](#youtubechannels)
+3. [Repos](#repos)
+4. [PureData and Hardware](url)
+5. [GEM-Ofelia](url)
+6. [Blogs & Websites](#blogs)
+7. [PureData For Games](#pdforgames)
+8. [Community](#community)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ## Getting Started
 
-Installing and learning PureData:
+Installing PureData:
 
 - [PureData Official Website](https://puredata.info/)
 - [PureData ](url)
@@ -53,6 +56,7 @@ Connect with fellow PureData enthusiasts:
 
 - [PureData Forum](https://forum.pdpatchrepo.info)
 - [PureData Reddit](https://www.reddit.com/r/puredata/)
+- [Discord](url)
 
 ## Contributing
 
