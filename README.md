@@ -52,7 +52,7 @@ Learn from the community with these helpful PureData tutorials:
 - [PureDataTutorial2](Link to PureDataTutorial2)
 - ...
 
-## GEM - Ofelia
+## GEM-Ofelia
 
 Learn from the community with these helpful PureData tutorials:
 
