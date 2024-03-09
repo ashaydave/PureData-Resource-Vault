@@ -92,8 +92,6 @@ This is the first time I'm making a list of resources, following the structure f
 
 ## License
 
-## License
-
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See the [LICENSE.md](LICENSE.md) file for details.
 
 
