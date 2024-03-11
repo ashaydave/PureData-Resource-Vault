@@ -39,6 +39,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [PlugData](https://github.com/plugdata-team/plugdata) - PureData as a plugin.
 - [Pd Next](https://github.com/sebshader/pdnext) - Color-themed Pure data with different inlets & outlets for messages and signals.
 - [Awesome PureData](https://github.com/virtualtam/awesome-puredata) - Found another resource repo like this but isn't updated in a while.
+- [Pd for Android](https://github.com/libpd/pd-for-android)
 
 ## Libraries
 
@@ -78,7 +79,6 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [Niall Moody](https://www.youtube.com/playlist?list=PL9mtAkCrEZavP0T_C4mLqKdxYD-4wURoZ)
 - [Yann Seznec's Intro to Pd in Unity](https://www.youtube.com/playlist?list=PLXGA7pVjV1jdfe2FaEs2EzuZ-16HLH1_0)
 - [uPD](https://github.com/Magicolo/uPD) - A better LibPd?
-- [Pd for Android](https://github.com/libpd/pd-for-android)
 - [Kalimba](https://github.com/hagish/kalimba) - Puredata (libpd) for Unity's Android and iOS build environments. [Integrate Unity with Kalimba](https://youtu.be/QK9-2q5CIjg).
 - [Unity + OSC + PureData Project](https://puredata.info/Members/videogameaudio/unitypuredata)
 - [Connect Pd with Wwise](https://www.youtube.com/watch?v=5T37U9hy4HA&ab_channel=GuidoFazzito)
