@@ -31,6 +31,8 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [QGC Interactive](https://www.youtube.com/playlist?list=PLuxj2jXSuTvvqYcDLJ-poN-JxvqX0wq-m)
 - [Really Useful Plugins](https://www.youtube.com/playlist?list=PLuxj2jXSuTvvqYcDLJ-poN-JxvqX0wq-m)
 - [Cheetomoskeeto](https://www.youtube.com/playlist?list=PL12DC9A161D8DC5DC)
+- [Sound Codex](https://www.youtube.com/playlist?list=PLZYD2Edyty0BSCuJz75a3YT_UwSBKdW02)
+- Some insane Purr Data work.[via pd](https://www.youtube.com/@via-pd)
 
 ## Repos
 
