@@ -72,6 +72,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [Wavetable Synth in PureData](https://designingsound.org/tag/wavetable-synth-project/)
 - [Martin Brinkmann's Pd Patches](http://www.martin-brinkmann.de/pd-patches.html)
 - [Oscilloscope PureData patches](https://oscilloscopemusic.com/software/puredata/)
+- [Rebel Tech Pd Patch Repo](https://www.rebeltech.org/patch-library/patches/tags/Pure%20Data/)
 
 ## Books
 
