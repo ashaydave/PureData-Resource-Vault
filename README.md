@@ -71,6 +71,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [Designing Sound - A Compressor in PureData](https://designingsound.org/2013/06/28/tutorial-a-compressor-in-pure-data/)
 - [Wavetable Synth in PureData](https://designingsound.org/tag/wavetable-synth-project/)
 - [Martin Brinkmann's Pd Patches](http://www.martin-brinkmann.de/pd-patches.html)
+- [Oscilloscope PureData patches](https://oscilloscopemusic.com/software/puredata/)
 
 ## Books
 
