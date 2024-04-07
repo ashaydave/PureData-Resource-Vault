@@ -93,6 +93,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [Unity + OSC + PureData Project](https://puredata.info/Members/videogameaudio/unitypuredata)
 - [Connect Pd with Wwise](https://www.youtube.com/watch?v=5T37U9hy4HA&ab_channel=GuidoFazzito)
 - [Leonard Paul's Procedural Audio Engine in PureData](https://www.youtube.com/watch?v=0xr4aL1C24E&list=PLwYSebjAx9JHLAKHZhbD2njhYtkf5DsKA&ab_channel=SchoolofVideoGameAudio) - School of Video Game Audio is really big on Pd, and you can find more on their website here -> [SoVGA](https://school.videogameaudio.com/apply/).
+- [Leonard Paul - Pure Data + Game Audio](https://videogameaudio.com/SFCM-Apr2020/SFCM2020-PureDataAndGameAudio-LPaul.pdf)
 
 ## Community
 
