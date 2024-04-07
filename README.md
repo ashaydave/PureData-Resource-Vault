@@ -47,11 +47,12 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 - [Awesome PureData](https://github.com/virtualtam/awesome-puredata) - Found another resource repo like this but isn't updated in a while.
 - [libpd - Pd for various platforms](https://github.com/libpd/)
 
-## Libraries
+## Libraries and Patchbanks
 
 - [Automatonism](https://www.automatonism.com/the-software/) - Automatonism is a modular synthesizer that runs in the open-source programming language Pure Data. It features a large library of 81 modules.
 - [Cyclone](https://github.com/porres/pd-cyclone) - MaxMSP objects in PureData.
 - [else](https://github.com/porres/pd-else) - ELSE makes PureData run on steroids.
+- [Martin Brinkmann](http://martin-brinkmann.de/pd-patches.html)
 
 ## PureData and Hardware
 
