@@ -77,7 +77,7 @@ A collection of resources, libraries, blogs, websites, and communities for PureD
 
 ## Books
 
-- [Andy Farnell's Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/) - One of the most popular books in sound design and audio programming for visual media. The book has everything you need to know about audio signal processing, the physics of sound, the approach behind sonic decisions, procedural audio, and yes, PureData.
+- [Andy Farnell's Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/) - One of the most popular books in sound design and audio programming for visual media. The book has everything you need to know about audio signal processing, the physics of sound, the approach behind sonic decisions, procedural audio, and yes, PureData. Find all his patches here - [https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/8375/designing_sound.zip/index.html](url)
 - [The Theory and Technique of Electronic Music by Miller Puckette](https://msp.ucsd.edu/techniques/latest/book.pdf) - Made by the creator of PureData and Max himself.
 - [Loadbang - Programming Electronic Music in Pd by Johannes Kreidler](https://www.wolke-verlag.de/musikbuecher/johannes-kreidler-loadbang/)
 - [FLOSS Manual](https://archive.flossmanuals.net/pure-data/) - Feels like '05.
